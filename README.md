@@ -14,4 +14,3 @@ The dataset consists of two files:
 2. **Normalize Ratings**: Normalize the user-item matrix.
 3. **Calculate Similarity**: Compute item similarity using Pearson correlation.
 4. **Make Predictions**: Predict ratings for movies that a user has not rated.
-
